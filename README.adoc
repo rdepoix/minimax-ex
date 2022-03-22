@@ -1,0 +1,10 @@
+= minimax
+:gitHubUserName: oliviercailloux
+:groupId: io.github.oliviercailloux
+:artifactId: minimax
+:repository: {artifactId}
+
+image:https://github.com/{gitHubUserName}/{repository}/workflows/Maven%20CI%20workflow/badge.svg["Build Status", link="https://github.com/{gitHubUserName}/{repository}/actions"]
+
+A software that accompanies an http://www.lamsade.dauphine.fr/~ocailloux/#publications[article] in preparation.
+
